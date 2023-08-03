@@ -101,7 +101,7 @@ export const produk = {
             "nama" : "Misting",
             "harga" : "680.000",
             "keterangan": "Dibuat dari berkualitas tempat makan Smiggle identik dengan desain dan warnanya yang sangat ceria. Selain itu, kotak bekal Smiggle juga dilengkapi dengan tas sehingga mudah dibawa ",
-            "id_kategori" : 5,
+            "id_kategori" : 55,
             "img": "misting.jpg"
         },
         {
@@ -109,7 +109,7 @@ export const produk = {
             "nama" : "Tumbler",
             "harga" : "470.000",
             "keterangan" : "tumbler smiggle tahan lama dengan harga terjangkau, Smiggle Topsy Teeny Tiny Drink Bottle With Strap Botol Minum Tali Unicorn Tosca ",
-            "id_kategori" : 5,
+            "id_kategori" : 55,
             "img": "tb2.jpg"
         },
         {
@@ -117,7 +117,7 @@ export const produk = {
             "nama" : "Sendok",
             "harga" : "100.000",
             "keterangan": "SMIGGLE sendok garpu anak animals stainless 304 BPA FREE/smiggle set, tersedia dalam berbagai macam pilihan karakter kesukaan / favorit.",
-            "id_kategori" : 5,
+            "id_kategori" : 55,
             "img": "sen3.jpg"
         },
         
